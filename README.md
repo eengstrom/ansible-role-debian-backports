@@ -38,3 +38,8 @@ tasks:
 - `backports_components`: Release and components for sources.list
     + Debian: `{{backports_distribution}}-backports backports main contrib non-free`
     + Ubuntu: `{{backports_distribution}}-backports main restricted universe multiverse`
+
+
+## Notes
+
+ - https://help.ubuntu.com/community/UbuntuBackports
